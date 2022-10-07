@@ -1,5 +1,7 @@
 # my page
 
+what should i do
+
 <div class="container-fluid py-2 px-4 m-0" style="background-color:#f4dccc; background-image: url('https://previews.123rf.com/images/lianella/lianella1507/lianella150700017/42611196-hand-drawn-bakery-seamless-pattern-vector-repeating-background-with-baked-cakes-fruit-kitchen-tools.jpg'); background-size: 300px; font-family: Garamond">
     
     <div class="container col-10 mx-auto" style="color: #210c08" >
